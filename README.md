@@ -2,7 +2,9 @@
 Orients Android Wear Unity apps properly. If you were not aware, most Android Wear devices consider their natural orientation `portrait`. So far, there has been one exception to this, the 1st generation Moto 360, which considers its orientation `landscape-left`. This small lib seeks to set up proper orientation.
 
 # Download
-//TODO
+Via [Unity Asset Store](http://u3d.as/yJF)
+
+Or, just download the `AndroidWearOrienter.cs` file and include it in your project.
 
 # Basic Usage
 Simply attach the script to any object that is initially in the scene and the orientation will be set properly
@@ -10,7 +12,7 @@ Simply attach the script to any object that is initially in the scene and the or
 License
 --------
 
-    Copyright 2016 Commit 451
+    Copyright 2017 Commit 451
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
